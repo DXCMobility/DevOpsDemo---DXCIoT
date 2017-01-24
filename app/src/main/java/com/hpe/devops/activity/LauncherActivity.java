@@ -51,7 +51,7 @@ public class LauncherActivity extends AppCompatActivity
     @SuppressWarnings("StatementWithEmptyBody")
     @Override
     public boolean onNavigationItemSelected(MenuItem item) {
-        // Do Nothing. Just Demo.
+        // Just Demo.
         return true;
     }
 

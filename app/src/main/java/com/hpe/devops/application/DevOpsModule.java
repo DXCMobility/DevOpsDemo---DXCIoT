@@ -25,6 +25,6 @@ public class DevOpsModule {
     @Provides
     @Singleton
     public Context providesContext() {
-        return context;
+        return context;;
     }
 }

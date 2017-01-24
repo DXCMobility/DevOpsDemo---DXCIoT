@@ -25,7 +25,7 @@ public class DevOpsApplication extends Application {
     }
 
     public static void inject(Object object) {
-        objectGraph.inject(object);
+        objectGraph.inject(object);;
     }
 
     public static <T> T get(Class<T> clazz) {
