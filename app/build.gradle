@@ -151,8 +151,8 @@ sonarRunner {
         property "sonar.jdbc.url", "jdbc:h2:tcp://localhost:9092/sonar"
         property "sonar.login", "admin"
         property "sonar.password", "admin"
-        property "sonar.projectKey", "HPEIoT"
-        property "sonar.projectName", "HPEIoT"
+        property "sonar.projectKey", "DXCIoT"
+        property "sonar.projectName", "DXCIoT"
         property "sonar.projectVersion", appName() + "-" + appVersionName() + "_" + appVersionCode()
         property "sonar.java.coveragePlugin", "jacoco"
         property "sonar.dynamicAnalysis", "reuseReports"
