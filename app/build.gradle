@@ -12,7 +12,7 @@ def appVersionCode() {
 }
 
 def appName() {
-    return "HPEIoT"
+    return "DXCIoT"
 }
 
 def getTestMaxParallelForks() {
